@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AshAlertApp
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# AshAlertApp
+>>>>>>> 8043c14e6a87965e2e5330a60912960b004febc8
